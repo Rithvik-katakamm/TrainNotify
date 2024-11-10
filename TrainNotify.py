@@ -17,7 +17,7 @@ def TrainNotify(phone_number, message_text):
 
 
 # Define the target phone number and message
-phone_number = "+17036736383"  # Replace with the recipient's number
+phone_number = "+10000000000"  # Replace with the recipient's number
 message_text = "Code done running!"
 
 # Send the message
